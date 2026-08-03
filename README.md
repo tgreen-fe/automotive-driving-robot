@@ -2,9 +2,9 @@
 
 A robot that sits where the driver's feet go and works the pedals directly, so a conventional car can be automated without touching its wiring. University of Southampton MEng group design project (FEEG6013); my role was actuator design and closed-loop control. This was a team project, shared with the group's permission.
 
-**Full write-up, with photos, video and what broke: [tgreen-fe.github.io/pedal-actuation.html](https://tgreen-fe.github.io/pedal-actuation.html)**
+**Full write-up, with photos, video and what broke: [tgreen-fe.github.io/pedal-actuation.html](https://tgreen-fe.github.io/pedal-actuation.html)** · **[Design journal summary (PDF)](https://tgreen-fe.github.io/assets/reports/pedal-design-journal.pdf)**
 
-[![The pedal robot as built: actuator arm rising from its baseplate](https://tgreen-fe.github.io/assets/img/pedal-rig.webp)](https://tgreen-fe.github.io/pedal-actuation.html)
+[![The robot installed in the footwell of the test car, cycling the pedal during commissioning](https://tgreen-fe.github.io/assets/img/pedal-car-install.gif)](https://tgreen-fe.github.io/pedal-actuation.html)
 
 ## Results
 
